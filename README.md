@@ -7,7 +7,7 @@ Description:
 \
 A semantic search engine for movie plots. Describe what happens in a movie in your own words, like *"a robbery that goes terribly wrong"* or *"a man stranded alone on another planet"*, and it finds the movies whose plots match the **meaning**, even when they share no exact words with your search.
 
-**Live app:** *(paste your Streamlit link here)*
+**Live app:** *https://semantic-search-engine-hasan.streamlit.app/*
 
 ## How it works
 
